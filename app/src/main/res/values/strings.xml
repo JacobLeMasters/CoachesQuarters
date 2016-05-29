@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coaches Quarters</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Packing and Unpacking
+        text texttexttexttexttexttexttext
+        texttexttexttexttexttexttexttext
+        texttexttexttexttexttexttext"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
